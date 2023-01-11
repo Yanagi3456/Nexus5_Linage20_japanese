@@ -27,7 +27,7 @@ https://bitgapps.github.io
 
 注意：armの32bitをダウンロードすること
 
-# 大体の問題に関する Q and A
+# 大体の問題に関する Q & A
 
 
 <p>Q パーテションがうまく行かない（小さい）</p>
