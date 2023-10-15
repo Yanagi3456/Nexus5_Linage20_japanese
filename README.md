@@ -1,4 +1,4 @@
-# Nexus5_android13_files(ja)
+# How to install: Nexus5_android13(Linage os 20.0)_files(for japanese)
 
 googleから発売されたスマートフォンnexus5にカスタムROM(Linneage OS 20.0 , android 13 に相当する)を導入する方法に関してメモしておく
 
